@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467946292640",
+    "project_id": "uitmchatroom",
+    "storage_bucket": "uitmchatroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467946292640:android:214b06aa9cd397546a90c5",
+        "android_client_info": {
+          "package_name": "com.example.uitmchatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467946292640-crkltm28q44p8ar2st7s4vpmii05u6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlhaUDpsq6oQzfgDJGTjmWluZCiHw0aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467946292640-crkltm28q44p8ar2st7s4vpmii05u6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
